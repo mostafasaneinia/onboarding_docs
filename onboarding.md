@@ -3,7 +3,8 @@
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Roadmap Overview](#roadmap-overview)
-3. [Technology Learning Path](#technology-learning-path)
+3. [Foundational Technologies](#foundational-technologies)
+4. [Technology Learning Path](#technology-learning-path)
     - [1. Python](#1-python)
     - [2. Git and GitHub](#2-git-and-github)
     - [3. Flask](#3-flask)
@@ -16,14 +17,38 @@
         - [Authentication](#authentication)
         - [Storage](#storage)
     - [9. GitHub Actions](#9-github-actions)
-4. [Resources and Documentation](#resources-and-documentation)
-5. [Feedback](#feedback)
+5. [Additional Skills for Backend Development](#additional-skills-for-backend-development)
+6. [Resources and Documentation](#resources-and-documentation)
+7. [Feedback](#feedback)
 
 ## Introduction
 Welcome to the team! This roadmap serves as a guide to help you learn the essential technologies for your role as a backend programmer.
 
 ## Roadmap Overview
 This roadmap outlines the sequence in which you should learn the technologies relevant to your role. Each section includes necessary details and resources to aid your learning.
+
+## Foundational Technologies
+Before diving into the primary technologies, familiarize yourself with these foundational concepts:
+
+### 1. Basic Programming Concepts
+- **Overview**: Understanding fundamental programming concepts like variables, loops, conditionals, and data structures.
+- **Resources**:
+  - [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python-3)
+
+### 2. HTTP and RESTful APIs
+- **Overview**: Learn how web communication works and the principles of designing RESTful APIs.
+- **Resources**:
+  - [HTTP Made Really Easy](https://www.jmarshall.com/easy/http/)
+  - [RESTful API Tutorial](https://restfulapi.net/)
+
+### 3. NoSQL Databases
+- **Overview**: Understanding the principles of NoSQL databases, including document, key-value, column-family, and graph databases.
+- **Key Topics**:
+  - Basics of NoSQL vs. SQL.
+  - Introduction to popular NoSQL databases (e.g., MongoDB, Firebase Realtime Database).
+- **Resources**:
+  - [MongoDB University](https://university.mongodb.com/)
+  - [NoSQL Databases Explained](https://www.mongodb.com/nosql-explained)
 
 ## Technology Learning Path
 
@@ -125,6 +150,13 @@ This roadmap outlines the sequence in which you should learn the technologies re
   - Using actions from the GitHub Marketplace.
 - **Resources**:
   - [GitHub Actions Documentation](https://docs.github.com/en/actions)
+
+## Additional Skills for Backend Development
+- **Understanding of Microservices Architecture**: Learn the principles of microservices and how they differ from monolithic architectures.
+- **Containerization (Docker)**: Familiarize yourself with Docker for creating, deploying, and running applications in containers.
+- **Testing**: Learn about unit testing and integration testing practices for backend applications.
+- **API Documentation**: Understanding how to document APIs effectively (e.g., using Swagger/OpenAPI).
+- **Basic Networking Concepts**: Understanding of how networks operate, including DNS, IP addresses, and protocols.
 
 ## Resources and Documentation
 - A collection of links to official documentation, tutorials, and courses for each technology mentioned.
