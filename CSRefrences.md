@@ -51,5 +51,5 @@
  **Mathematical Statistics** - John Freund  
     ![View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIIOiwy6LTa4l9kniyg8y9_lQw-03w:1724846629010&q=**Mathematical+Statistics**+-+John+Freund&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJUBrgTTZdMQfghyy8PpT_cHSYt6LsMld2_XK7XZstHHUm7NbU1iDBvtcjuK_h_kqH6Dwz8lr4DOT4zoV4UNRTZJRLFWSjCZObIUJtMtWYlk3wsZc9KkGx3R7G_Sq--ZicncbQ&sa=X&ved=2ahUKEwjXyPS00peIAxUYRfEDHWofMwEQtKgLegQIDxAB&biw=1920&bih=929&dpr=1#vhid=YR6ynlAwJ6SlFM&vssid=mosaic)
 
- **Formal Languages and Automata** - Peter Linz  
+**Formal Languages and Automata** - Peter Linz  
     ![View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIImr0t7TosE1CmRVNHTwimDjvPWkQ:1724846658433&q=Formal+Languages+and+Automata**+-+Peter+Linz&udm=2&fbs=AEQNm0CFDpRHaDHkXm_YXueHTfHtrgIXUKlluACpCix4T5ZoUSz6e3GWv4zN_09JkP2cR-DwqD-ER1CSuTjXzdXNKT0Wma9mNyum3oWLzhs1xt8u5GJdCx58_F0ZS8HPQnKQz9WgsdJpThHV1BWzodOO8E_BatEjT0dIL3U5ECu78v7bqTooU6tI88M-Qrvjqh0VwmagWSscc3JaO_0BmvDToqXs55uEqQ&sa=X&ved=2ahUKEwiXrvjC0peIAxVfR_EDHfVkLj8QtKgLegQIBxAB&biw=1920&bih=929#vhid=IKJkFGznqb-A7M&vssid=mosaic)
