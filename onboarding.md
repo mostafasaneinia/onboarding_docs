@@ -2,30 +2,28 @@
 
 ## Table of Contents
 1. [Introduction](#introduction)
-2. [Roadmap Overview](#roadmap-overview)
 3. [Foundational Technologies](#foundational-technologies)
 4. [Technology Learning Path](#technology-learning-path)
     - [1. Python](#1-python)
     - [2. Git and GitHub](#2-git-and-github)
     - [3. Flask](#3-flask)
     - [4. FastAPI](#4-fastapi)
-    - [5. Google Cloud CLI](#5-google-cloud-cli)
-    - [6. Google Cloud Functions](#6-google-cloud-functions)
-    - [7. Google Cloud Storage (GCS)](#7-google-cloud-storage-gcs)
-    - [8. Firebase](#8-firebase)
+    - [5. Google Cloud](#5-google-cloud)
+        - [Google Cloud CLI](#google-cloud-cli)
+        - [Google Cloud Functions](#google-cloud-functions)
+        - [Google Cloud Storage (GCS)](#google-cloud-storage-gcs)
+    - [6. Firebase](#6-firebase)
+        - [Overview](#overview)
         - [Realtime Database](#realtime-database)
         - [Authentication](#authentication)
         - [Storage](#storage)
-    - [9. GitHub Actions](#9-github-actions)
+    - [7. GitHub Actions](#7-github-actions)
 5. [Additional Skills for Backend Development](#additional-skills-for-backend-development)
 6. [Resources and Documentation](#resources-and-documentation)
 7. [Feedback](#feedback)
 
 ## Introduction
 Welcome to the team! This roadmap serves as a guide to help you learn the essential technologies for your role as a backend programmer.
-
-## Roadmap Overview
-This roadmap outlines the sequence in which you should learn the technologies relevant to your role. Each section includes necessary details and resources to aid your learning.
 
 ## Foundational Technologies
 Before diving into the primary technologies, familiarize yourself with these foundational concepts:
@@ -83,7 +81,7 @@ Before diving into the primary technologies, familiarize yourself with these fou
   - [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 ### 4. FastAPI
-- **Overview**: A modern web framework for building APIs with Python 3.6+ based on standard Python type hints.
+- **Overview**: A modern web framework for building APIs with Python.
 - **Key Topics**:
   - Creating APIs with FastAPI.
   - Dependency injection.
@@ -92,7 +90,10 @@ Before diving into the primary technologies, familiarize yourself with these fou
   - [FastAPI Official Documentation](https://fastapi.tiangolo.com/)
   - [FastAPI Tutorial](https://fastapi.tiangolo.com/tutorial/)
 
-### 5. Google Cloud CLI
+### 5. Google Cloud
+- **Overview**: A suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products.
+  
+#### Google Cloud CLI
 - **Overview**: Command-line tool for interacting with Google Cloud services.
 - **Key Topics**:
   - Installing and configuring the CLI.
@@ -100,7 +101,7 @@ Before diving into the primary technologies, familiarize yourself with these fou
 - **Resources**:
   - [Google Cloud CLI Documentation](https://cloud.google.com/sdk/docs)
 
-### 6. Google Cloud Functions
+#### Google Cloud Functions
 - **Overview**: Serverless execution environment for building and connecting cloud services.
 - **Key Topics**:
   - Creating and deploying cloud functions.
@@ -108,30 +109,42 @@ Before diving into the primary technologies, familiarize yourself with these fou
 - **Resources**:
   - [Google Cloud Functions Documentation](https://cloud.google.com/functions/docs)
 
-### 7. Google Cloud Storage (GCS)
+#### Google Cloud Storage (GCS)
 - **Overview**: Scalable object storage service for unstructured data.
 - **Key Topics**:
   - Creating and managing buckets.
   - Uploading and retrieving objects.
+  - Understanding storage classes and lifecycle management.
 - **Resources**:
   - [GCS Documentation](https://cloud.google.com/storage/docs)
 
-### 8. Firebase
-- **Overview**: Platform for building mobile and web applications.
-  
+### 6. Firebase
+- **Overview**: A platform for building mobile and web applications, providing various backend services.
+
 #### Realtime Database
 - **Overview**: NoSQL cloud database for storing and syncing data in real-time.
 - **Key Topics**:
   - Setting up and configuring the database.
   - Reading and writing data.
+  - Understanding data structure and security rules.
+  - Offline capabilities and synchronization.
+- **Checkpoints**:
+  - Create a Firebase project and set up the Realtime Database.
+  - Implement basic CRUD operations.
+  - Set up security rules to control access.
 - **Resources**:
   - [Firebase Realtime Database Documentation](https://firebase.google.com/docs/database)
 
 #### Authentication
 - **Overview**: Securely managing user authentication.
 - **Key Topics**:
-  - Setting up authentication methods.
-  - Managing user sessions.
+  - Setting up authentication methods (email/password, social logins).
+  - Managing user sessions and tokens.
+  - Understanding security best practices.
+- **Checkpoints**:
+  - Implement user registration and login functionalities.
+  - Set up email verification and password reset.
+  - Implement role-based access control.
 - **Resources**:
   - [Firebase Authentication Documentation](https://firebase.google.com/docs/auth)
 
@@ -139,11 +152,16 @@ Before diving into the primary technologies, familiarize yourself with these fou
 - **Overview**: Storing and serving user-generated content.
 - **Key Topics**:
   - Uploading and managing files.
-  - Access control and security rules.
+  - Understanding storage rules and access control.
+  - Implementing file uploads and downloads in your app.
+- **Checkpoints**:
+  - Create a storage bucket and upload files.
+  - Implement file retrieval and deletion functionality.
+  - Set up security rules for file access.
 - **Resources**:
   - [Firebase Storage Documentation](https://firebase.google.com/docs/storage)
 
-### 9. GitHub Actions
+### 7. GitHub Actions
 - **Overview**: CI/CD service for automating workflows directly from GitHub.
 - **Key Topics**:
   - Creating workflows for testing and deployment.
@@ -158,8 +176,6 @@ Before diving into the primary technologies, familiarize yourself with these fou
 - **API Documentation**: Understanding how to document APIs effectively (e.g., using Swagger/OpenAPI).
 - **Basic Networking Concepts**: Understanding of how networks operate, including DNS, IP addresses, and protocols.
 
-## Resources and Documentation
-- A collection of links to official documentation, tutorials, and courses for each technology mentioned.
 
 ## Feedback
 Please provide feedback on this roadmap and any additional resources or topics you think should be included.
