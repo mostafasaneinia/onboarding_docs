@@ -1,55 +1,64 @@
-# Recommended Reading Order for Computer Science
+# Recommended Books for Computer Science
 
- **Discrete Mathematics and Its Applications** - Kenneth H. Rosen  
+**Discrete Mathematics and Its Applications** - Kenneth H. Rosen  
    [View Link](https://www.google.com/search?sca_esv=636d22f92f1d75c8&sxsrf=ADLYWIKOtAz9NDCaDE1VB8tqN514vztgGQ:1724845818386&q=**Discrete+Mathematics+and+Its+Applications**+-+Kenneth+H.+Rosen&udm=2&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2PRrsfVPlQRxSTpQ4UUI6wf-btftA7khPDwTlJ0z0rLOpRNtAkEgQGJQqJlUc6SSHf-Iy9I2UZX47OMAQdKgz8THU8wwLzqsrWfoebO0uLvpQSCqSn02p81GB17VGOirTNgaLpAt75fK6QQ0d9yILmGs0XfoV7o_LoS9g0Rd8REGCqOmuQ&sa=X&ved=2ahUKEwjG_6-yz5eIAxVDafEDHTtcPNcQtKgLegQIDBAB&biw=1920&bih=929&dpr=1#vhid=G6NldJa6KgTDaM&vssid=mosaic)
 
- **Linear Algebra** - Gilbert Strang  
+**Linear Algebra** - Gilbert Strang  
    [View Link](https://www.google.com/search?sca_esv=636d22f92f1d75c8&sxsrf=ADLYWIJ211RZm0vz38VYmWrkp7Y2UAUnEg:1724845928212&q=**Linear+Algebra**+-+Gilbert+Strang&udm=2&fbs=AEQNm0CFDpRHaDHkXm_YXueHTfHtrgIXUKlluACpCix4T5ZoUSz6e3GWv4zN_09JkP2cR-DwqD-ER1CSuTjXzdXNKT0Wma9mNyum3oWLzhs1xt8u5GJdCx58_F0ZS8HPQnKQz9WgsdJpThHV1BWzodOO8E_BatEjT0dIL3U5ECu78v7bqTooU6tI88M-Qrvjqh0VwmagWSscc3JaO_0BmvDToqXs55uEqQ&sa=X&ved=2ahUKEwiSmd_mz5eIAxXqRfEDHQMOIHkQtKgLegQIFBAB&biw=1920&bih=929&dpr=1#vhid=U5Gi5bI7IoFgzM&vssid=mosaic)
 
- **Digital Logic** - Stephen Brown  
+**Digital Logic** - Stephen Brown  
    [View Link](https://www.google.com/search?sca_esv=636d22f92f1d75c8&sxsrf=ADLYWIIBBFxYKmGo373x5696RWbZW_Cifw:1724845875376&q=**Digital+Logic**+-+Stephen+Brown&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJUBrgTTZdMQfghyy8PpT_cHSYt6LsMld2_XK7XZstHHUm7NbU1iDBvtcjuK_h_kqH6Dwz8lr4DOT4zoV4UNRTZJRLFWSjCZObIUJtMtWYlk3wsZc9KkGx3R7G_Sq--ZicncbQ&sa=X&ved=2ahUKEwivvcbNz5eIAxV9S_EDHbyWDh0QtKgLegQIEBAB&biw=1920&bih=929&dpr=1#vhid=TdYTkomK60k9hM&vssid=mosaic)
 
- **Operating System Concepts** - Abraham Silberschatz, Peter B. Galvin, and Greg Gagne  
+**Operating System Concepts** - Abraham Silberschatz, Peter B. Galvin, and Greg Gagne  
    [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWII3pkuH-drUbNFISCx_qD2JcMfXhg:1724845978604&q=**Operating+System+Concepts**+-+Abraham+Silberschatz,+Peter+B.+Galvin,+and+Greg+Gagne&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJ9Yac9VVJRGWfC4j5Vo8iVdmp0yHcykFiMIS9jUiQbN_U_vVDhXuiv9WtRFP3w1xyEfuag4hZCMtDiWR5yvDhV6r1V8aWdr2pDV3Csi4oLpFhod-EYWrnzWwrB0T8SfNvjCyg&sa=X&ved=2ahUKEwjkhOP-z5eIAxWjRvEDHXsxBFkQtKgLegQIEhAB&biw=1920&bih=929&dpr=1#vhid=_EKYx5ev2FMqeM&vssid=mosaic)
 
- **Computer Architecture: A Quantitative Approach** - John L. Hennessy, David A. Patterson  
+**Computer Architecture: A Quantitative Approach** - John L. Hennessy, David A. Patterson  
    [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIL8sERjUmUbwBKzSsv4zjsQ9GHvAg:1724846058953&q=**Computer+Architecture:+A+Quantitative+Approach**+-+John+L.+Hennessy,+David+A.+Patterson&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJ9Yac9VVJRGWfC4j5Vo8iVdmp0yHcykFiMIS9jUiQbN_U_vVDhXuiv9WtRFP3w1xyEfuag4hZCMtDiWR5yvDhV6r1V8aWdr2pDV3Csi4oLpFhod-EYWrnzWwrB0T8SfNvjCyg&sa=X&ved=2ahUKEwieiIul0JeIAxUvS_EDHeCvHh0QtKgLegQIDBAB&biw=1920&bih=929&dpr=1#vhid=Z4rc6q33GRkOjM&vssid=mosaic)
 
- **Fundementals of Data Structures in C** - Mark Allen Weiss  
+**Fundementals of Data Structures in C** - Mark Allen Weiss  
    [View Link](https://www.google.com/search?q=Data+Structures+and+Algorithm+Analysis+horrowits&sca_esv=ec3eb9fcd9e1b35d&udm=2&biw=1920&bih=929&sxsrf=ADLYWIJtOAuEdiuEKjdLQxBQeDsxadkTEw%3A1724846199325&ei=dxDPZrrDE76Txc8P8I3qoAY&ved=0ahUKEwj62oLo0JeIAxW-SfEDHfCGGmQQ4dUDCBE&uact=5&oq=Data+Structures+and+Algorithm+Analysis+horrowits&gs_lp=Egxnd3Mtd2l6LXNlcnAiMERhdGEgU3RydWN0dXJlcyBhbmQgQWxnb3JpdGhtIEFuYWx5c2lzIGhvcnJvd2l0c0jaMFDTBFiAK3ABeACQAQCYAcsCoAHCD6oBBzAuNi4zLjG4AQPIAQD4AQGYAgKgAvwBwgIEECMYJ8ICBhAAGAcYHsICBRAAGIAEmAMAiAYBkgcFMS4wLjGgB8EM&sclient=gws-wiz-serp#vhid=Gi3ms3SluxwyJM&vssid=mosaic)
 
- **Introduction to Algorithms** - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  
+**Introduction to Algorithms** - Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein  
    [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWILRrUZITynvgvwATLFRg7VCWYFGOw:1724846271759&q=**Introduction+to+Algorithms**+-+Thomas+H.+Cormen,+Charles+E.+Leiserson,+Ronald+L.+Rivest,+Clifford+Stein&udm=2&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2PRrsfVPlQRxSTpQ4UUI6wdh60Bm53mxaBz4ng0b7PV-YGWOXPAK2E9Fu6maaEHunFe-Lv1eJJxDdSALxR-M09Qh9CXBWYLj7NNa1XMlA5wJI97aOhuKdYGXYNGxCkZ7y6zNOduANGFikXVQ_cjECKSuFa__5qWTS5d0-Z-U5WgnRK_AMQ&sa=X&ved=2ahUKEwiQ1seK0ZeIAxUlQfEDHQV-FREQtKgLegQIEBAB&biw=1920&bih=929&dpr=1#vhid=STJiUEl6y_Wo7M&vssid=mosaic)
 
- **Software Engineering** - Roger S. Pressman  
+**Software Engineering** - Roger S. Pressman  
    [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWILCmgjfYwWGerBCn2X7fn5OTunLxw:1724846313180&q=**Software+Engineering**+-+Roger+S.+Pressman&udm=2&fbs=AEQNm0CFDpRHaDHkXm_YXueHTfHtrgIXUKlluACpCix4T5ZoUSz6e3GWv4zN_09JkP2cR-DwqD-ER1CSuTjXzdXNKT0Wma9mNyum3oWLzhs1xt8u5GJdCx58_F0ZS8HPQnKQz9WgsdJpThHV1BWzodOO8E_BatEjT0dIL3U5ECu78v7bqTooU6tI88M-Qrvjqh0VwmagWSscc3JaO_0BmvDToqXs55uEqQ&sa=X&ved=2ahUKEwiHvqee0ZeIAxVYcfEDHeCtF8QQtKgLegQIEBAB&biw=1920&bih=929&dpr=1#vhid=EYbFMzy8eAyRBM&vssid=mosaic)
 
- **Artificial Intelligence: A Modern Approach** - Stuart Russell, Peter Norvig  
+**Artificial Intelligence: A Modern Approach** - Stuart Russell, Peter Norvig  
    [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIK-invD8hMjuPqBHCXcn0y9LKRV_Q:1724846342092&q=**Artificial+Intelligence:+A+Modern+Approach**+-+Stuart+Russell,+Peter+Norvig&udm=2&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2PRrsfVPlQRxSTpQ4UUI6wdh60Bm53mxaBz4ng0b7PV-YGWOXPAK2E9Fu6maaEHunFe-Lv1eJJxDdSALxR-M09Qh9CXBWYLj7NNa1XMlA5wJI97aOhuKdYGXYNGxCkZ7y6zNOduANGFikXVQ_cjECKSuFa__5qWTS5d0-Z-U5WgnRK_AMQ&sa=X&ved=2ahUKEwj3uoys0ZeIAxXxSvEDHcwoIXwQtKgLegQICxAB&biw=1920&bih=929&dpr=1#vhid=lUMOosMfvV7koM&vssid=mosaic)
 
- **Neural Networks and Learning Machines** - Simon Haykin  
+**Neural Networks and Learning Machines** - Simon Haykin  
     [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIJIhAxnPDnyo2w3Uwn4hdx1Gi6yBA:1724846436647&q=Neural+Networks+and+Learning+Machines**+-+Simon+Haykin&udm=2&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2PRrsfVPlQRxSTpQ4UUI6wf-btftA7khPDwTlJ0z0rLOpRNtAkEgQGJQqJlUc6SSHf-Iy9I2UZX47OMAQdKgz8THU8wwLzqsrWfoebO0uLvpQSCqSn02p81GB17VGOirTNgaLpAt75fK6QQ0d9yILmGs0XfoV7o_LoS9g0Rd8REGCqOmuQ&sa=X&ved=2ahUKEwj8u5fZ0ZeIAxWXQvEDHQplOnUQtKgLegQICBAB&biw=1920&bih=929&dpr=1#vhid=nILK6B8weNQwjM&vssid=mosaic)
 
- **Deep Learning** - Ian Goodfellow, Yoshua Bengio, Aaron Courville  
+**Deep Learning** - Ian Goodfellow, Yoshua Bengio, Aaron Courville  
     [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIIawKKAl0fRPgXWlm5zgWexZ4ppRQ:1724846462459&q=**Deep+Learning**+-+Ian+Goodfellow,+Yoshua+Bengio,+Aaron+Courville&udm=2&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2PRrsfVPlQRxSTpQ4UUI6wdh60Bm53mxaBz4ng0b7PV-YGWOXPAK2E9Fu6maaEHunFe-Lv1eJJxDdSALxR-M09Qh9CXBWYLj7NNa1XMlA5wJI97aOhuKdYGXYNGxCkZ7y6zNOduANGFikXVQ_cjECKSuFa__5qWTS5d0-Z-U5WgnRK_AMQ&sa=X&ved=2ahUKEwiQiL_l0ZeIAxWTVfEDHQl4H8kQtKgLegQIChAB&biw=1920&bih=929&dpr=1#vhid=vCW6JQ5iToFH4M&vssid=mosaic)
 
- **Pattern Recognition and Machine Learning** - Christopher M. Bishop  
+**Pattern Recognition and Machine Learning** - Christopher M. Bishop  
     [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIJ4X95wf5gRf3SuTaU70BsrV1Z66w:1724846493983&q=Pattern+Recognition+and+Machine+Learning**+-+Christopher+M.+Bishop&udm=2&fbs=AEQNm0CvspUPonaF8UH5s_LBD3JPX4RSeMPt9v8oIaeGMh2T2PRrsfVPlQRxSTpQ4UUI6wdh60Bm53mxaBz4ng0b7PV-YGWOXPAK2E9Fu6maaEHunFe-Lv1eJJxDdSALxR-M09Qh9CXBWYLj7NNa1XMlA5wJI97aOhuKdYGXYNGxCkZ7y6zNOduANGFikXVQ_cjECKSuFa__5qWTS5d0-Z-U5WgnRK_AMQ&sa=X&ved=2ahUKEwjIl8P00ZeIAxV4VPEDHclSG7QQtKgLegQIDhAB&biw=1920&bih=929&dpr=1#vhid=jpj2fVRcap9HJM&vssid=mosaic)
 
- **Digital Image Processing** - Rafael C. Gonzalez, Richard E. Woods  
+**Digital Image Processing** - Rafael C. Gonzalez, Richard E. Woods  
     [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWILLMqleCks9eAAPyGHQDKfDHZYriA:1724846512901&q=Digital+Image+Processing**+-+Rafael+C.+Gonzalez,+Richard+E.+Woods&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Ns6EVsgc0W_0xN47PHaanAEtg26fpfc9gg2y1-ZsywNNidIzOA0khSyMN51n7r3LlDC9M1NYStuTRDcBUYQ58dKt-Q6SigUS4Yne5yDHLg0vPBr98Nz98twIaNcnWiKaD4QuEh93Q53sB-UkWP9OcfO5KeatY98HR7cDW9ZTjFpZV7kJtA&sa=X&ved=2ahUKEwjo6cX90ZeIAxW3Z_EDHYuiOicQtKgLegQICRAB&biw=1920&bih=929&dpr=1#vhid=QZlOcLHBlb4qlM&vssid=mosaic)
 
- **Video Processing and Communications** - Yao Wang  
+**Video Processing and Communications** - Yao Wang  
     [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIJ_y283H1QHuWHZfY4rH9553lfy6g:1724846536091&q=Video+Processing+and+Communications**+-+Yao+Wang&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJUBrgTTZdMQfghyy8PpT_cHSYt6LsMld2_XK7XZstHHUm7NbU1iDBvtcjuK_h_kqH6Dwz8lr4DOT4zoV4UNRTZJRLFWSjCZObIUJtMtWYlk3wsZc9KkGx3R7G_Sq--ZicncbQ&sa=X&ved=2ahUKEwiSlM2I0peIAxVeSPEDHRwECK8QtKgLegQIDBAB&biw=1920&bih=929&dpr=1#vhid=ohilwGsa9COZ4M&vssid=mosaic)
 
- **Signals and Systems** - Alan V. Oppenheim, Alan S. Willsky  
+**Signals and Systems** - Alan V. Oppenheim, Alan S. Willsky  
     [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWILvrRNhTotrq17yohtFJX-qUJkjvQ:1724846557743&q=Signals+and+Systems**+-+Alan+V.+Oppenheim,+Alan+S.+Willsky&udm=2&fbs=AEQNm0CFDpRHaDHkXm_YXueHTfHtrgIXUKlluACpCix4T5ZoUSz6e3GWv4zN_09JkP2cR-DwqD-ER1CSuTjXzdXNKT0Wma9mNyum3oWLzhs1xt8u5GJdCx58_F0ZS8HPQnKQz9WgsdJpThHV1BWzodOO8E_BatEjT0dIL3U5ECu78v7bqTooU6tI88M-Qrvjqh0VwmagWSscc3JaO_0BmvDToqXs55uEqQ&sa=X&ved=2ahUKEwjC6vaS0peIAxX7SvEDHRVmA0cQtKgLegQIExAB&biw=1920&bih=929&dpr=1#vhid=Ej704yXzZT2nEM&vssid=mosaic)
 
- **Stochastic Processes** - Sheldon M. Ross  
+**Stochastic Processes** - Sheldon M. Ross  
     [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIKzK7mjxwIqIW0vsxaqzJinvcQhvA:1724846585244&q=Stochastic+Processes**+-+Sheldon+M.+Ross&udm=2&fbs=AEQNm0CFDpRHaDHkXm_YXueHTfHtrgIXUKlluACpCix4T5ZoUSz6e3GWv4zN_09JkP2cR-DwqD-ER1CSuTjXzdXNKT0Wma9mNyum3oWLzhs1xt8u5GJdCx58_F0ZS8HPQnKQz9WgsdJpThHV1BWzodOO8E_BatEjT0dIL3U5ECu78v7bqTooU6tI88M-Qrvjqh0VwmagWSscc3JaO_0BmvDToqXs55uEqQ&sa=X&ved=2ahUKEwjNpIWg0peIAxVKSPEDHeTcEcYQtKgLegQIEBAB&biw=1920&bih=929&dpr=1#vhid=EIvTXMvMChgDAM&vssid=mosaic)
 
- **Mathematical Statistics** - John Freund  
+**Mathematical Statistics** - John Freund  
     [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIIOiwy6LTa4l9kniyg8y9_lQw-03w:1724846629010&q=**Mathematical+Statistics**+-+John+Freund&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJUBrgTTZdMQfghyy8PpT_cHSYt6LsMld2_XK7XZstHHUm7NbU1iDBvtcjuK_h_kqH6Dwz8lr4DOT4zoV4UNRTZJRLFWSjCZObIUJtMtWYlk3wsZc9KkGx3R7G_Sq--ZicncbQ&sa=X&ved=2ahUKEwjXyPS00peIAxUYRfEDHWofMwEQtKgLegQIDxAB&biw=1920&bih=929&dpr=1#vhid=YR6ynlAwJ6SlFM&vssid=mosaic)
 
- **Formal Languages and Automata** - Peter Linz  
+**Formal Languages and Automata** - Peter Linz  
     [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIImr0t7TosE1CmRVNHTwimDjvPWkQ:1724846658433&q=Formal+Languages+and+Automata**+-+Peter+Linz&udm=2&fbs=AEQNm0CFDpRHaDHkXm_YXueHTfHtrgIXUKlluACpCix4T5ZoUSz6e3GWv4zN_09JkP2cR-DwqD-ER1CSuTjXzdXNKT0Wma9mNyum3oWLzhs1xt8u5GJdCx58_F0ZS8HPQnKQz9WgsdJpThHV1BWzodOO8E_BatEjT0dIL3U5ECu78v7bqTooU6tI88M-Qrvjqh0VwmagWSscc3JaO_0BmvDToqXs55uEqQ&sa=X&ved=2ahUKEwiXrvjC0peIAxVfR_EDHfVkLj8QtKgLegQIBxAB&biw=1920&bih=929#vhid=IKJkFGznqb-A7M&vssid=mosaic)
+
+**Dive Into Design Patterns** - Alexander Shvets
+    [View Link](https://www.google.com/search?q=design+patterns+book+authhor&sca_esv=ec3eb9fcd9e1b35d&udm=2&biw=1920&bih=929&sxsrf=ADLYWIL_2nIlI9ZmX1IKhyqZ6u1tlsfsGA%3A1724849018270&ei=ehvPZvmVEJGP7NYPvL69-Aw&ved=0ahUKEwj5upmo25eIAxWRB9sEHTxfD88Q4dUDCBE&uact=5&oq=design+patterns+book+authhor&gs_lp=Egxnd3Mtd2l6LXNlcnAiHGRlc2lnbiBwYXR0ZXJucyBib29rIGF1dGhob3JIlR1QmQlYgBtwAngAkAEAmAHGAaAB1guqAQMwLjm4AQPIAQD4AQGYAgOgAuoCwgIKEAAYgAQYQxiKBcICBhAAGAcYHsICBRAAGIAEwgIGEAAYFhgemAMAiAYBkgcFMS4xLjGgB_0N&sclient=gws-wiz-serp#vhid=A5m6wZyNkcC1FM&vssid=mosaic)
+
+**Natural Language Processing with Transformers** -  Lewis Tunstall, Leandro Von Werra, Thomas Wolf  
+    [View Link](https://www.google.com/search?sca_esv=ec3eb9fcd9e1b35d&sxsrf=ADLYWIIVcICrSmzrSOtwYYG4aXoAUMhIQA:1724849249632&q=natural+language+processing+with+transformers&udm=2&fbs=AEQNm0DPvcmG_nCbmwtBO9j6YBzM68ZanC7g01Skprhw5JoufVCiMv-hxC44jt6JduRQysBab-bgQXjPraaWFXMvOy8Kr1OAG3K-aj3De4zf3-LxKqwSLZCPE2ypMfUpdmlfpZvF-Imkf1dmfk2tEl3i4FhIHR9X1ZhjOZquGC4w2muEwecjabAGV6iuucLNMiqqvo3bLmUrEPQu8hsKkiuxqfHFEPjHWQ&sa=X&ved=2ahUKEwib58KW3JeIAxU3QvEDHbMNMeoQtKgLegQIDBAB&biw=1920&bih=929&dpr=1#vhid=rcmqh_qMI4XfRM&vssid=mosaic)
+
+**Computer Networking A Top-Down Approach** - Kurose, Ross  
+    [View Link](https://www.google.com/search?q=computer+networking+a+top%5Bnotch+aproach&sca_esv=ec3eb9fcd9e1b35d&udm=2&biw=1920&bih=929&sxsrf=ADLYWII_-b6CDWmuyzWZ_jI7eZlkBcArAA%3A1724849301738&ei=lRzPZvbYLJ-Fxc8P_KDiyQg&ved=0ahUKEwi2966v3JeIAxWfQvEDHXyQOIkQ4dUDCBE&uact=5&oq=computer+networking+a+top%5Bnotch+aproach&gs_lp=Egxnd3Mtd2l6LXNlcnAiJ2NvbXB1dGVyIG5ldHdvcmtpbmcgYSB0b3Bbbm90Y2ggYXByb2FjaEjoTlDRDViWTXABeACQAQGYAagDoAGyIqoBCjAuMjAuMi4xLjG4AQPIAQD4AQGYAgugAu8QwgIKEAAYgAQYQxiKBcICBhAAGAcYHsICCBAAGAcYHhgPwgIFEAAYgATCAgQQIxgnwgIGEAAYFhgemAMAiAYBkgcJMS42LjIuMS4xoAfDVg&sclient=gws-wiz-serp#vhid=q1jeKG4MchFobM&vssid=mosaic)
